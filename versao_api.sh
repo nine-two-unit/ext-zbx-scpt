@@ -1,5 +1,4 @@
 #!/bin/sh
-# Script que imprime na saída a versão da API do Zabbix
 
 URL='http://localhost/zabbix/api_jsonrpc.php'
 HEADER='Content-Type:application/json'
